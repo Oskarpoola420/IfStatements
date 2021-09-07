@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\bin\Debug\netcoreapp3.1\PermanentDrivingLicense.exe
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\bin\Debug\netcoreapp3.1\PermanentDrivingLicense.deps.json
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\bin\Debug\netcoreapp3.1\PermanentDrivingLicense.runtimeconfig.json
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\bin\Debug\netcoreapp3.1\PermanentDrivingLicense.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\bin\Debug\netcoreapp3.1\PermanentDrivingLicense.dll
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\bin\Debug\netcoreapp3.1\PermanentDrivingLicense.pdb
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\obj\Debug\netcoreapp3.1\PermanentDrivingLicense.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\obj\Debug\netcoreapp3.1\PermanentDrivingLicense.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\obj\Debug\netcoreapp3.1\PermanentDrivingLicense.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\obj\Debug\netcoreapp3.1\PermanentDrivingLicense.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\obj\Debug\netcoreapp3.1\PermanentDrivingLicense.dll
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\obj\Debug\netcoreapp3.1\PermanentDrivingLicense.pdb
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\PermanentDrivingLicense\obj\Debug\netcoreapp3.1\PermanentDrivingLicense.genruntimeconfig.cache

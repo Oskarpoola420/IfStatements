@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\bin\Debug\netcoreapp3.1\ifstatements.exe
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\bin\Debug\netcoreapp3.1\ifstatements.deps.json
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\bin\Debug\netcoreapp3.1\ifstatements.runtimeconfig.json
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\bin\Debug\netcoreapp3.1\ifstatements.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\bin\Debug\netcoreapp3.1\ifstatements.dll
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\bin\Debug\netcoreapp3.1\ifstatements.pdb
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\obj\Debug\netcoreapp3.1\ifstatements.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\obj\Debug\netcoreapp3.1\ifstatements.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\obj\Debug\netcoreapp3.1\ifstatements.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\obj\Debug\netcoreapp3.1\ifstatements.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\obj\Debug\netcoreapp3.1\ifstatements.dll
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\obj\Debug\netcoreapp3.1\ifstatements.pdb
+C:\Users\opilane\source\repos\TiTpe21\ifstatements\ifstatements\obj\Debug\netcoreapp3.1\ifstatements.genruntimeconfig.cache
